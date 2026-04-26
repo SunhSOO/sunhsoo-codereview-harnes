@@ -7,8 +7,8 @@
     "email": "noreply@example.com",
     "url": "https://github.com/SunhSOO"
   },
-  "homepage": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
-  "repository": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+  "homepage": "https://github.com/SunhSOO/sunhsoo-codereview-harnes",
+  "repository": "https://github.com/SunhSOO/sunhsoo-codereview-harnes",
   "license": "MIT",
   "keywords": [
     "code-review",
@@ -27,9 +27,9 @@
       "Interactive",
       "Write"
     ],
-    "websiteURL": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
-    "privacyPolicyURL": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
-    "termsOfServiceURL": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+    "websiteURL": "https://github.com/SunhSOO/sunhsoo-codereview-harnes",
+    "privacyPolicyURL": "https://github.com/SunhSOO/sunhsoo-codereview-harnes",
+    "termsOfServiceURL": "https://github.com/SunhSOO/sunhsoo-codereview-harnes",
     "defaultPrompt": [
       "현재 branch 기준으로 코드리뷰 파이프라인 실행해줘",
       "이 변경사항의 평가기준을 만들어줘",
