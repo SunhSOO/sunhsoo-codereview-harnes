@@ -14,7 +14,7 @@ description: Update code-convention.yaml or adr.yaml after analyzing current wor
 ## Procedure
 
 1. repo-local `docs/code-convention.yaml`, `docs/adr.yaml`을 우선 읽는다.
-2. 없으면 plugin bundled `plugins/sunhsoo-codereview/docs/`의 샘플을 참조한다.
+2. 없으면 plugin bundled `codex/plugins/sunhsoo-codereview/docs/`의 샘플을 참조한다.
 3. 현재 작업의 의사결정과 기존 항목을 대조한다.
 4. 다음을 분류해 사용자에게 제안한다:
    - MUST: 모순 해결이나 기준 유지를 위해 반드시 필요한 변경

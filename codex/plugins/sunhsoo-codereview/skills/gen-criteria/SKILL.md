@@ -11,7 +11,7 @@ description: Generate a code-quality guide for the current branch by filtering c
 
 - `.review-artifacts/{branch-name}/design-intent.md`
 - repo-local `docs/code-convention.yaml`, `docs/adr.yaml` if present
-- fallback plugin docs under `plugins/sunhsoo-codereview/docs/`
+- fallback plugin docs under `codex/plugins/sunhsoo-codereview/docs/`
 - `git diff {base}...HEAD`
 
 ## Output

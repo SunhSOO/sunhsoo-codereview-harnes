@@ -8,7 +8,7 @@
       "name": "sunhsoo-codereview",
       "source": {
         "source": "local",
-        "path": "./plugins/sunhsoo-codereview"
+        "path": "./codex/plugins/sunhsoo-codereview"
       },
       "policy": {
         "installation": "AVAILABLE",

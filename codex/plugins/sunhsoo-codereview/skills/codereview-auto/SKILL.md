@@ -15,7 +15,7 @@ description: Run the full SunhSOO code-review pipeline in Codex: inspect branch 
 - 구현이 완료된 feature branch에서 실행한다.
 - 팀 상황에 맞는 기준 문서가 있어야 한다. 우선순위는 다음과 같다:
   1. repo-local `docs/code-convention.yaml`, `docs/adr.yaml`
-  2. plugin bundled `plugins/sunhsoo-codereview/docs/code-convention.yaml`, `plugins/sunhsoo-codereview/docs/adr.yaml`
+  2. plugin bundled `codex/plugins/sunhsoo-codereview/docs/code-convention.yaml`, `codex/plugins/sunhsoo-codereview/docs/adr.yaml`
 
 ## Artifact Path
 
