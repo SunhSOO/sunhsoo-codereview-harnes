@@ -1,0 +1,20 @@
+{
+  "name": "sunhsoo-codereview-marketplace",
+  "interface": {
+    "displayName": "SunhSOO Code Review"
+  },
+  "plugins": [
+    {
+      "name": "sunhsoo-codereview",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sunhsoo-codereview"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

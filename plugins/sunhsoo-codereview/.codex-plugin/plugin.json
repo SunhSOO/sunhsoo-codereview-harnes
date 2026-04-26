@@ -1,0 +1,43 @@
+{
+  "name": "sunhsoo-codereview",
+  "version": "0.1.0",
+  "description": "Codex 기반 코드리뷰 자동화 파이프라인. 설계의도, 평가기준, PR 본문, 근거 기반 리뷰를 생성합니다.",
+  "author": {
+    "name": "SunhSOO",
+    "email": "noreply@example.com",
+    "url": "https://github.com/SunhSOO"
+  },
+  "homepage": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+  "repository": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "codex",
+    "workflow",
+    "adr"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SunhSOO Code Review",
+    "shortDescription": "SunhSOO Codex용 근거 기반 코드리뷰 하네스",
+    "longDescription": "feature branch의 변경사항을 분석해 설계의도, 평가기준, PR 본문, 코드리뷰 코멘트, 리뷰 반영 계획을 순차적으로 생성하는 SunhSOO Codex 플러그인입니다.",
+    "developerName": "SunhSOO",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+    "privacyPolicyURL": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+    "termsOfServiceURL": "https://github.com/SunhSOO/sunhsoo-codereview-harness",
+    "defaultPrompt": [
+      "현재 branch 기준으로 코드리뷰 파이프라인 실행해줘",
+      "이 변경사항의 평가기준을 만들어줘",
+      "리뷰 코멘트를 반영할지 판단해줘"
+    ],
+    "brandColor": "#2563EB",
+    "screenshots": [
+      "./assets/flow.png"
+    ]
+  }
+}
